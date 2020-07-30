@@ -15,7 +15,7 @@ namespace OpenXml_Test_2
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\Miras Talaspayev\Downloads\Telegram Desktop\BIG_DSM_MTX_004_RU_Матрица_процессов_Холдинга (2).xlsx";
+            string path = @"some.xlsx file";
             Test(path);
             
             Console.ReadLine();
